@@ -1,0 +1,465 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"l",
+				"lookingFor"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"us",
+				"userEmail3"
+			],
+			[
+				"g",
+				"greeting"
+			],
+			[
+				"Joh",
+				"John"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"fil",
+				"Filter"
+			],
+			[
+				"u",
+				"username"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"colo",
+				"color1"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"c",
+				"color1"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"ev",
+				"evdel"
+			],
+			[
+				"de",
+				"delbot"
+			],
+			[
+				"add",
+				"addDelete"
+			],
+			[
+				"pas",
+				"passwordprompt"
+			],
+			[
+				"use",
+				"user2"
+			],
+			[
+				"user",
+				"usernameprompt"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"pa",
+				"passwordprompt"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"p",
+				"position\tproperty"
+			],
+			[
+				"text-",
+				"text-align\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"gri",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"grid",
+				"grid-gap\tproperty"
+			],
+			[
+				"gr",
+				"Grid"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"lis",
+				"list-style\tproperty"
+			],
+			[
+				"fle",
+				"flex-grow\tproperty"
+			],
+			[
+				"clo",
+				"column"
+			],
+			[
+				"flex",
+				"flex-grow\tproperty"
+			],
+			[
+				"a",
+				"auto\tflex-basis"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"grid-t",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"text",
+				"text-center"
+			],
+			[
+				"border-col",
+				"border-color\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"tr",
+				"transform\tproperty"
+			],
+			[
+				"tra",
+				"transition\tproperty"
+			],
+			[
+				"border-r",
+				"border-right\tproperty"
+			],
+			[
+				"border",
+				"border-bottom\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"al",
+				"text-align\tproperty"
+			],
+			[
+				"flex-",
+				"flex-wrap\tproperty"
+			],
+			[
+				"fin",
+				"find_element_by_id"
+			],
+			[
+				"cl",
+				"click"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"list",
+				"list-style-image\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"s",
+				"disc\tlist-style"
+			],
+			[
+				"n",
+				"lower-norwegian\tlist-style"
+			],
+			[
+				"bac",
+				"background-size\tproperty"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"r",
+				"required\tAttr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"npm -v"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/web dev/gradiant background/background/index.html",
+		"/D/web dev/gradiant background/background/style.css",
+		"/D/web dev/github/start-here-guidelines/contributors.md",
+		"/D/web dev/github/start-here-guidelines/README.md",
+		"/D/web dev/index.html",
+		"/C/Users/Omar/AppData/Local/Temp/Rar$DRa0.768/es2020-solutions.js",
+		"/C/Users/Omar/AppData/Local/Temp/Rar$DRa0.768/es2020.js",
+		"/C/Users/Omar/Desktop/test/webapp/index.html",
+		"/C/Users/Omar/AppData/Local/Temp/Rar$DRa0.850/advanced-looping-exercise.js",
+		"/C/Users/Omar/AppData/Local/Temp/Rar$DRa0.850/advanced-looping-solution.js",
+		"/C/Users/Omar/AppData/Local/Temp/Rar$DRa0.476/ES10-Exercise.js",
+		"/D/web dev/project/index.html",
+		"/D/web dev/project/style.css",
+		"/C/Users/Omar/AppData/Local/Temp/Rar$DRa0.476/ES10-Solutions.js",
+		"/C/Users/Omar/AppData/Local/Temp/Rar$DRa0.989/exerciseES7.js",
+		"/C/Users/Omar/AppData/Local/Temp/Rar$DRa0.989/exerciseES7-SOLUTIONS.js",
+		"/C/Users/Omar/AppData/Local/Temp/Rar$DRa0.686/exercise6.js",
+		"/C/Users/Omar/AppData/Local/Temp/Rar$DRa0.219/exercise6-SOLUTIONS.js",
+		"/C/Users/Omar/AppData/Local/Temp/Rar$DRa0.566/exercise5-SOLUTIONS-1.js",
+		"/C/Users/Omar/AppData/Local/Temp/Rar$DRa0.766/exercise5.js",
+		"/C/Users/Omar/AppData/Local/Temp/Rar$DRa0.781/exercise4-SOLUTIONS.js",
+		"/C/Users/Omar/AppData/Local/Temp/Rar$DRa0.419/exercise4.js",
+		"/D/web dev/gradiant background/index.html",
+		"/D/web dev/gradiant background/style.css",
+		"/D/web dev/gradiant background/script.js",
+		"/D/web dev/dom selector/style.css",
+		"/D/web dev/dom selector/script.js",
+		"/D/web dev/dom selector/index.html",
+		"/D/web dev/js ex/index.html",
+		"/D/web dev/js ex/script.js",
+		"/D/web dev/project-start/andreea sol/project-start/index.html",
+		"/D/web dev/project-start/andreea sol/project-start/style.css",
+		"/C/Users/Omar/AppData/Local/Temp/Rar$DRa0.639/exercise7-SOLUTIONS.js",
+		"/C/Users/Omar/AppData/Local/Temp/Rar$DRa0.588/exercise3.txt",
+		"/C/Users/Omar/AppData/Local/Temp/Rar$DRa0.153/exercise2.txt",
+		"/D/web dev/project-start/index.html",
+		"/D/web dev/project-start/style.css",
+		"/D/web dev/css grid/style.css",
+		"/D/web dev/bootstrap/index.html",
+		"/D/web dev/css grid/index.html",
+		"/D/web dev/css/style.css",
+		"/D/web dev/css/index.html",
+		"/D/selenium/123.py",
+		"/D/web dev/index 1.html",
+		"/D/web dev/register.html",
+		"/D/web dev/style.css",
+		"/D/web dev/234.png",
+		"/D/web dev/siparaigm/index.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
